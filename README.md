@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/jeangu2002/advice-generator](https://github.com/jeangu2002/advice-generator)
-- Live Site URL: [https://jeangu2002.github.com/advice-generator](https://jeangu2002.github.com/advice-generator)
+- Solution URL: [https://github.io/jeangu2002/advice-generator](https://github.io/jeangu2002/advice-generator)
+- Live Site URL: [https://jeangu2002.github.io/advice-generator](https://jeangu2002.github.io/advice-generator)
 
 ## My process
 
